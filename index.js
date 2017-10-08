@@ -97,7 +97,7 @@ function onSessionEnded(sessionEndedRequest, session) {
 
 function getWelcomeResponse(callback) {
     // If we wanted to initialize the session to have some attributes we could add those here.
-/*    
+    
 console.log('Loading function');
 
 var config = {
@@ -146,7 +146,7 @@ var iotdata = new AWS.IotData({endpoint: config.endpointAddress});
         }
     });
 
-*/
+
 
 
 ////////////////////////////////////////////
